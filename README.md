@@ -1,4 +1,4 @@
-# Party Planner - Text Your Group One on One
+# Party Planner - Automate Texting Your Group One on One
 
 Planning events with friends is great, but whenever you text people in a group chat, most will just ignore it.
 
