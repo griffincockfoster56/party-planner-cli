@@ -22,7 +22,7 @@ Party Planner runs on the CLI and is very simple to get started with. Try it tod
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/party-planner-cli.git
+   git clone https://github.com/griffincockfoster56/party-planner-cli
    cd party-planner-cli
    ```
 
