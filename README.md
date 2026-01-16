@@ -1,8 +1,8 @@
 # Party Planner - Automate Texting Your Group One on One
 
-Planning events with friends is great, but when you text people in a group chat, most are less likely to respond.
+Planning events with friends is great, but when you send a text in a group chat, people are less likely to respond.
 
-Party Planner is the solution to that. It is a mac app that lets you creates lists of contacts, enter a message template, and then automates texting your contacts with the Mac Messages app one on one to plan an event. When you text people one on one, they are way more likely to respond, as opposed to in a group chat.
+Party Planner is the solution. It is a mac app that lets you creates lists of contacts, enter a message template, and then automates texting your contacts with the Mac Messages app one on one to plan an event. When you text people one on one, they are way more likely to respond, as opposed to in a group chat.
 
 Party Planner runs on the CLI and is very simple to get started with. Try it today!
 
